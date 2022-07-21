@@ -16,3 +16,4 @@ gem "puma"
 # gem "debug", ">= 1.0.0"
 
 gem "importmap-rails"
+gem 'pry', '~> 0.13.1'

@@ -1,5 +1,5 @@
 # frozen_string_literal: true
-
+require 'pry'
 module TurboClone
   class Engine < ::Rails::Engine
     isolate_namespace TurboClone
