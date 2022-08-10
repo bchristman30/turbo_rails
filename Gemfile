@@ -17,3 +17,4 @@ gem "puma"
 
 gem "importmap-rails"
 gem 'pry', '~> 0.13.1'
+gem "redis"
